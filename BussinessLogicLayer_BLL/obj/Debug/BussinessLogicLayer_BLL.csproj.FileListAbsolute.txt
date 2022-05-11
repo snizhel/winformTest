@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.dll
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.pdb
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.dll
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.pdb
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CopyComplete
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.dll
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.pdb
+D:\TT\Lab04\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.dll
+D:\TT\Lab04\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.pdb
+D:\TT\Lab04\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.dll
+D:\TT\Lab04\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.pdb
+D:\TT\Lab04\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csprojAssemblyReference.cache
+D:\TT\Lab04\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CoreCompileInputs.cache
+D:\TT\Lab04\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CopyComplete
+D:\TT\Lab04\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.dll
+D:\TT\Lab04\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.pdb
+D:\TT\Lab06\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.dll
+D:\TT\Lab06\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.pdb
+D:\TT\Lab06\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.dll
+D:\TT\Lab06\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.pdb
+D:\TT\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csprojAssemblyReference.cache
+D:\TT\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CoreCompileInputs.cache
+D:\TT\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CopyComplete
+D:\TT\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.dll
+D:\TT\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.pdb
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.dll
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.pdb
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.dll
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.pdb
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.AssemblyReference.cache
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CoreCompileInputs.cache
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CopyComplete
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.dll
+D:\PTPMUD\LabWeek\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.pdb
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.dll
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\bin\Debug\BussinessLogicLayer_BLL.pdb
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.dll
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.pdb
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.AssemblyReference.cache
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.csproj.CopyComplete
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.dll
+C:\Users\MXGC\Downloads\Lab06\Lab06\BussinessLogicLayer_BLL\obj\Debug\BussinessLogicLayer_BLL.pdb

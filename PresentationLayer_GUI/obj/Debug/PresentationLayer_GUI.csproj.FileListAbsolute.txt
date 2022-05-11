@@ -1,0 +1,89 @@
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe.config
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.pdb
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.dll
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.dll
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.pdb
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.pdb
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmEmployees.resources
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.Properties.Resources.resources
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CopyComplete
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.exe
+C:\Users\User\Desktop\HK21.2A\PHÁT TRIỂN PMUD\lab03\lab03\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.pdb
+D:\TT\Lab04\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe.config
+D:\TT\Lab04\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe
+D:\TT\Lab04\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.pdb
+D:\TT\Lab04\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.dll
+D:\TT\Lab04\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.dll
+D:\TT\Lab04\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.pdb
+D:\TT\Lab04\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.pdb
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csprojAssemblyReference.cache
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmEmployees.resources
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmLogin.resources
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmSomeControls.resources
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.Properties.Resources.resources
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.GenerateResource.cache
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CoreCompileInputs.cache
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CopyComplete
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.exe
+D:\TT\Lab04\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.pdb
+D:\TT\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe.config
+D:\TT\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe
+D:\TT\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.pdb
+D:\TT\Lab06\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.dll
+D:\TT\Lab06\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.dll
+D:\TT\Lab06\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.pdb
+D:\TT\Lab06\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.pdb
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csprojAssemblyReference.cache
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmEmployees.resources
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmSomeControls.resources
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.Properties.Resources.resources
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.GenerateResource.cache
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CoreCompileInputs.cache
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CopyComplete
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.exe
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.pdb
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmLogin2.resources
+D:\TT\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmSignup.resources
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe.config
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.pdb
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.dll
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.dll
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.pdb
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.pdb
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.AssemblyReference.cache
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmEmployees.resources
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmSignup.resources
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmLogin2.resources
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmSomeControls.resources
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.Properties.Resources.resources
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.GenerateResource.cache
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CoreCompileInputs.cache
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CopyComplete
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.exe
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.pdb
+D:\PTPMUD\LabWeek\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmAddEmployees.resources
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe.config
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.exe
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\bin\Debug\PresentationLayer_GUI.pdb
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.dll
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.dll
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\bin\Debug\BussinessLogicLayer_BLL.pdb
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\bin\Debug\DataAccessLayer_DAL.pdb
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.AssemblyReference.cache
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmAddEmployees.resources
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmEmployees.resources
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmSignup.resources
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmLogin2.resources
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.FrmSomeControls.resources
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.Properties.Resources.resources
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.GenerateResource.cache
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CoreCompileInputs.cache
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.csproj.CopyComplete
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.exe
+C:\Users\MXGC\Downloads\Lab06\Lab06\PresentationLayer_GUI\obj\Debug\PresentationLayer_GUI.pdb

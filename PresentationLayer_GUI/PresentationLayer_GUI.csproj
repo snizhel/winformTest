@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{268BC519-7744-40D8-916F-C2D5277DD723}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PresentationLayer_GUI</RootNamespace>
+    <AssemblyName>PresentationLayer_GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAddEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddEmployees.Designer.cs">
+      <DependentUpon>FrmAddEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmployees.Designer.cs">
+      <DependentUpon>FrmEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSignup.Designer.cs">
+      <DependentUpon>FrmSignup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin2.Designer.cs">
+      <DependentUpon>FrmLogin2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSomeControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSomeControls.Designer.cs">
+      <DependentUpon>FrmSomeControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAddEmployees.resx">
+      <DependentUpon>FrmAddEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmployees.resx">
+      <DependentUpon>FrmEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSignup.resx">
+      <DependentUpon>FrmSignup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin2.resx">
+      <DependentUpon>FrmLogin2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSomeControls.resx">
+      <DependentUpon>FrmSomeControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\3d bar chart.png" />
+    <Content Include="images\About.png" />
+    <Content Include="images\Application.png" />
+    <Content Include="images\Create.bmp" />
+    <Content Include="images\delete.ico" />
+    <Content Include="images\exit.ico" />
+    <Content Include="images\find.ico" />
+    <Content Include="images\first.ico" />
+    <Content Include="images\last.ico" />
+    <Content Include="images\lock.png" />
+    <Content Include="images\modify.ico" />
+    <Content Include="images\pikachu\1.png" />
+    <Content Include="images\pikachu\2.png" />
+    <Content Include="images\pikachu\3.png" />
+    <Content Include="images\pikachu\4.png" />
+    <Content Include="images\pikachu\5.png" />
+    <Content Include="images\pikachu\6.png" />
+    <Content Include="images\pikachu\7.png" />
+    <Content Include="images\pikachu\8.png" />
+    <Content Include="images\pikachu\9.png" />
+    <Content Include="images\profile.png" />
+    <Content Include="images\user_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BussinessLogicLayer_BLL\BussinessLogicLayer_BLL.csproj">
+      <Project>{4b138c80-3b75-49ed-8ba8-9c258b92ca10}</Project>
+      <Name>BussinessLogicLayer_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer_DAL\DataAccessLayer_DAL.csproj">
+      <Project>{613ea54f-f4a5-4dae-8652-4de7a6600785}</Project>
+      <Name>DataAccessLayer_DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
